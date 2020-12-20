@@ -1,0 +1,5 @@
+E:\GitHub\cs_1.7_Maringa2019\bin\release\net5.0\publish\cs_1.7_Maringa2019.exe
+E:\GitHub\cs_1.7_Maringa2019\bin\release\net5.0\publish\cs_1.7_Maringa2019.dll
+E:\GitHub\cs_1.7_Maringa2019\bin\release\net5.0\publish\cs_1.7_Maringa2019.deps.json
+E:\GitHub\cs_1.7_Maringa2019\bin\release\net5.0\publish\cs_1.7_Maringa2019.runtimeconfig.json
+E:\GitHub\cs_1.7_Maringa2019\bin\release\net5.0\publish\cs_1.7_Maringa2019.pdb

@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.7_Maringa2019\bin\Debug\net5.0\cs_1.7_Maringa2019.exe
+E:\GitHub\cs_1.7_Maringa2019\bin\Debug\net5.0\cs_1.7_Maringa2019.deps.json
+E:\GitHub\cs_1.7_Maringa2019\bin\Debug\net5.0\cs_1.7_Maringa2019.runtimeconfig.json
+E:\GitHub\cs_1.7_Maringa2019\bin\Debug\net5.0\cs_1.7_Maringa2019.runtimeconfig.dev.json
+E:\GitHub\cs_1.7_Maringa2019\bin\Debug\net5.0\cs_1.7_Maringa2019.dll
+E:\GitHub\cs_1.7_Maringa2019\bin\Debug\net5.0\ref\cs_1.7_Maringa2019.dll
+E:\GitHub\cs_1.7_Maringa2019\bin\Debug\net5.0\cs_1.7_Maringa2019.pdb
+E:\GitHub\cs_1.7_Maringa2019\obj\Debug\net5.0\cs_1.7_Maringa2019.csprojAssemblyReference.cache
+E:\GitHub\cs_1.7_Maringa2019\obj\Debug\net5.0\cs_1.7_Maringa2019.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.7_Maringa2019\obj\Debug\net5.0\cs_1.7_Maringa2019.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.7_Maringa2019\obj\Debug\net5.0\cs_1.7_Maringa2019.AssemblyInfo.cs
+E:\GitHub\cs_1.7_Maringa2019\obj\Debug\net5.0\cs_1.7_Maringa2019.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.7_Maringa2019\obj\Debug\net5.0\cs_1.7_Maringa2019.dll
+E:\GitHub\cs_1.7_Maringa2019\obj\Debug\net5.0\ref\cs_1.7_Maringa2019.dll
+E:\GitHub\cs_1.7_Maringa2019\obj\Debug\net5.0\cs_1.7_Maringa2019.pdb
+E:\GitHub\cs_1.7_Maringa2019\obj\Debug\net5.0\cs_1.7_Maringa2019.genruntimeconfig.cache
